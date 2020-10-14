@@ -1,2 +1,2 @@
 # BME260
-Modeling Molecular and Cellular Systems
+MATLAB Scripts from Modeling Molecular and Cellular Systems S19
